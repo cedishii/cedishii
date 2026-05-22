@@ -41,5 +41,4 @@
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-CC0000?style=flat&logoColor=white)
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cedishii&layout=compact&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=cedishii&theme=tokyonight&hide_border=true)
