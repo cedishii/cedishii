@@ -54,7 +54,7 @@
 
 ## Projects
 
-### Consulta (ConsultSiya): Academic Consultation Booking System 
+### Consulta: Academic Consultation Booking System 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
