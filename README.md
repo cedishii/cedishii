@@ -1,8 +1,25 @@
-# Hello! I'm Cedrick Kaneko 
+Information Technology student at Mapúa University with hands-on experience building full-stack web systems and backend services. Focused on cybersecurity, secure application design, database management, and API development.
 
-> Cybersecurity student | Developer | Builder
+## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedrick-kaneko/)
+- **Location:** Makati City, Philippines
+- **Role:** BS IT Student | Backend Assistant Lead Intern @ Zhiyuan Enterprise Group Inc.
+- **Education:** BS Information Technology @ Mapúa University
+- **Contact:**
+  [cedrickkaneko@gmail.com](mailto:cedrickkaneko@gmail.com) · [cedrickmiguel23@gmail.com](mailto:cedrickmiguel23@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/cedrick-kaneko/) · [ORCID](https://orcid.org/0009-0008-4609-8353)
+
+## Experience
+
+### Backend Developer Intern → Assistant Lead, Zhiyuan Enterprise Group Inc.
+*2026 | Makati City, Philippines · 488 hours*
+
+Started as a backend intern and was promoted to co-lead of the backend team, contributing to three production systems across the internship.
+
+- Built the backend of the **Distributor Management System (DMS)** — server-side logic, REST API endpoints, database integration, and multi-level commission computation across a tiered distributor hierarchy (React + Node.js/Express + SQLite)
+- Maintained and enhanced the company's **Employee Clock Time Monitoring System**, resolving issues and shipping requested features (PHP + SQLite)
+- Served as **QA checker** on **FindAPlace PH**, a client real estate brokerage website — tested features, logged defects, and implemented post-review revisions before deployment
+- Applied Agile/RAD workflows, Git version control, and technical documentation in a collaborative professional environment
 
 ## Languages
 
