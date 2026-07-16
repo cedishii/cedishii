@@ -108,6 +108,29 @@ A team-built platform that detects fake news and verifies claims through reliabl
 
 🔗 [View Repository](https://github.com/neoboi76/ITS120LProj_Grp6)
 
+### SK Barangay Esperanza Ilaya: Community Web Portal
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+A web portal for the Sangguniang Kabataan (SK) of Barangay Esperanza Ilaya, giving the youth council a place to post updates and manage community records with full create-read-update-delete functionality.
+
+**Key Features:**
+- Announcements management — post, edit, and remove community announcements
+- Events and activities listing for barangay youth programs
+- Admin dashboard with full CRUD control over site content
+- Resident/youth records management
+- Responsive layout accessible on desktop and mobile
+
+**My Contributions:**
+- Designed and built the Projects page and its content pane
+- Created the announcements section's local design and layout
+
+**Tech Stack:** PHP, HTML, CSS, MySQL
+
+🔗 [View Repository](https://github.com/RedzerRiley/CRUD-Web-Page-for-SK-Brgy-Esperanza-Ilaya)
+
 ## Certifications
 
 - **Google Cybersecurity Professional Certificate** — Google (June 2025)
