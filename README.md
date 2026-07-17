@@ -173,6 +173,7 @@ A modular all-purpose utility app for Android that bundles everyday tools into a
 - Solo full-stack development — designed and built the entire app from architecture to release (v1.0.0)
 - Implemented all modules, PDF processing, file handling, and Android storage permissions
 **Tech Stack:** Flutter, Dart, Android
+
 🔗 [View Repository](https://github.com/cedishii/Android-Toolkit)
 
 ---
