@@ -152,7 +152,9 @@ A web portal for the Sangguniang Kabataan (SK) of Barangay Esperanza Ilaya, givi
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
 A modular all-purpose utility app for Android that bundles everyday tools into a single toolkit. Built with a plug-in style module architecture, so new tools can be added with minimal changes to the core app.
+
 **Key Features:**
 - Home screen with a grid of tool modules, each fully self-contained
 - Calculator with standard arithmetic operations and live expression display
