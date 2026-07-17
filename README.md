@@ -69,6 +69,8 @@ Started as a backend intern and was promoted to co-lead of the backend team, con
 ![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-1679A7?style=flat&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-CC0000?style=flat&logoColor=white)
 
+---
+
 ## Projects
 
 ### Consulta: Academic Consultation Booking System 
@@ -100,6 +102,8 @@ My capstone project — a consultation booking platform for Mapúa University's 
 
 🔗 [View Repository](https://github.com/GeeCyy/ConsultSiya)
 
+---
+
 ### NewsCheck (Web): AI-Based Fake News Detection & Verification Platform
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.6-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -125,6 +129,8 @@ A team-built platform that detects fake news and verifies claims through reliabl
 
 🔗 [View Repository](https://github.com/neoboi76/ITS120LProj_Grp6)
 
+---
+
 ### SK Barangay Esperanza Ilaya: Community Web Portal
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -148,6 +154,8 @@ A web portal for the Sangguniang Kabataan (SK) of Barangay Esperanza Ilaya, givi
 
 🔗 [View Repository](https://github.com/RedzerRiley/CRUD-Web-Page-for-SK-Brgy-Esperanza-Ilaya)
 
+---
+
 ### OmniTool: All-in-One Android Utility Toolkit
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -167,6 +175,8 @@ A modular all-purpose utility app for Android that bundles everyday tools into a
 **Tech Stack:** Flutter, Dart, Android
 🔗 [View Repository](https://github.com/cedishii/Android-Toolkit)
 
+---
+
 ## Certifications
 
 - **Google Cybersecurity Professional Certificate** — Google (June 2025)
@@ -178,11 +188,15 @@ A modular all-purpose utility app for Android that bundles everyday tools into a
 - **Agile Project Management** — Packt (January 2026)
 - **Introduction to Computer Science and Programming Specialization** — University of London, Goldsmiths (October 2023)
 
+---
+
 ## Education
 
 - **BS Information Technology**, Mapúa University (*August 2023 – 2026*)
   - Current GWA: 1.78
   - Relevant coursework: Application Development, DBMS, OOP, UI/UX, Systems Integration
+
+---
 
 ## Hobbies & Interests
 
