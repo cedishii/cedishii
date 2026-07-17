@@ -148,6 +148,23 @@ A web portal for the Sangguniang Kabataan (SK) of Barangay Esperanza Ilaya, givi
 
 🔗 [View Repository](https://github.com/RedzerRiley/CRUD-Web-Page-for-SK-Brgy-Esperanza-Ilaya)
 
+### OmniTool: All-in-One Android Utility Toolkit
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+A modular all-purpose utility app for Android that bundles everyday tools into a single toolkit. Built with a plug-in style module architecture, so new tools can be added with minimal changes to the core app.
+**Key Features:**
+- Home screen with a grid of tool modules, each fully self-contained
+- Calculator with standard arithmetic operations and live expression display
+- PDF Merger — pick multiple PDFs, reorder them, and merge into a single file
+- PDF Signature — draw and save signature PNGs, then place, drag, and resize them onto any PDF page before exporting a signed copy
+- Module registry architecture that makes adding future tools trivial
+**My Contributions:**
+- Solo full-stack development — designed and built the entire app from architecture to release (v1.0.0)
+- Implemented all modules, PDF processing, file handling, and Android storage permissions
+**Tech Stack:** Flutter, Dart, Android
+🔗 [View Repository](https://github.com/cedishii/Android-Toolkit)
+
 ## Certifications
 
 - **Google Cybersecurity Professional Certificate** — Google (June 2025)
