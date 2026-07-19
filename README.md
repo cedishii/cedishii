@@ -135,6 +135,7 @@ A team-built platform that detects fake news and verifies claims through reliabl
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord%20Webhooks-5865F2?style=flat&logo=discord&logoColor=white)
+
 A TinyTask-style desktop automation tool that records global mouse and keyboard actions and replays them with millisecond-accurate, drift-free timing. Built lightweight by design — ~0% idle CPU, no external dependencies, pure Win32 interop.
 **Key Features:**
 - Global input recording and playback via low-level Windows hooks and `SendInput`, with speed control and looping
@@ -145,6 +146,7 @@ A TinyTask-style desktop automation tool that records global mouse and keyboard 
 **My Contributions:**
 - Solo development — architecture, Win32 hook/input engine, drift-free playback scheduler, UI, and Discord integration through v1.0
 **Tech Stack:** C#, .NET 8, WinForms, Win32 API
+  
 🔗 [View Repository](https://github.com/cedishii/ActionCloner)
 
 ---
