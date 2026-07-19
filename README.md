@@ -130,6 +130,24 @@ A team-built platform that detects fake news and verifies claims through reliabl
 🔗 [View Repository](https://github.com/neoboi76/ITS120LProj_Grp6)
 
 ---
+### Action Cloner: Lightweight Macro Recorder & Auto Clicker for Windows
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord%20Webhooks-5865F2?style=flat&logo=discord&logoColor=white)
+A TinyTask-style desktop automation tool that records global mouse and keyboard actions and replays them with millisecond-accurate, drift-free timing. Built lightweight by design — ~0% idle CPU, no external dependencies, pure Win32 interop.
+**Key Features:**
+- Global input recording and playback via low-level Windows hooks and `SendInput`, with speed control and looping
+- Auto clicker with configurable interval (hours/minutes/seconds/ms) and a 50 ms safety floor
+- Macro Library — save, load, rename, and manage recordings in a dedicated in-app view
+- Discord webhook notifications with rich embeds for recording/playback events, including rate-limit-safe per-loop updates
+- Silent background operation — global hotkeys work while minimized, with taskbar progress and audio cues
+**My Contributions:**
+- Solo development — architecture, Win32 hook/input engine, drift-free playback scheduler, UI, and Discord integration through v1.0
+**Tech Stack:** C#, .NET 8, WinForms, Win32 API
+🔗 [View Repository](https://github.com/cedishii/ActionCloner)
+
+---
 
 ### SK Barangay Esperanza Ilaya: Community Web Portal
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
