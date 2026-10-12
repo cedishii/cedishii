@@ -218,13 +218,6 @@ A modular all-purpose utility app for Android that bundles everyday tools into a
 
 ---
 
-## Education
-
-- **BS Information Technology**, Mapúa University (*August 2023 – 2026*)
-  - Current GWA: 1.78
-  - Relevant coursework: Application Development, DBMS, OOP, UI/UX, Systems Integration
-
----
 
 ## Hobbies & Interests
 
