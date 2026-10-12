@@ -1,13 +1,20 @@
-Information Technology student at Mapúa University with hands-on experience building full-stack web systems and backend services. Focused on cybersecurity, secure application design, database management, and API development.
+Information Technology graduate from Mapúa University with a specialization in Cybersecurity and Networking, hands-on experience building full-stack web systems and backend services, and a strong foundation in secure application design, database management, API development, and network security.
 
 ## About Me
 
 - **Location:** Makati City, Philippines
-- **Role:** BS IT Student | Backend Assistant Lead Intern @ Zhiyuan Enterprise Group Inc.
-- **Education:** BS Information Technology @ Mapúa University
+- **Role:** BSIT Graduate | Backend Developer
+- **Education:** BS Information Technology, Specialization in Cybersecurity and Networking @ Mapúa University
 - **Contact:**
   [cedrickkaneko@gmail.com](mailto:cedrickkaneko@gmail.com) · [cedrickmiguel23@gmail.com](mailto:cedrickmiguel23@gmail.com)
   [LinkedIn](https://www.linkedin.com/in/cedrick-kaneko/) · [ORCID](https://orcid.org/0009-0008-4609-8353)
+
+## Education
+
+- **BS Information Technology**, Mapúa University (*August 2023 – 2026*)
+  - Final GWA: 1.59
+  - Specialization: Cybersecurity and Networking
+  - Relevant Coursework: Application Development, DBMS, OOP, UI/UX, Systems Integration
 
 ## Experience
 
@@ -229,4 +236,5 @@ A modular all-purpose utility app for Android that bundles everyday tools into a
 
 ![Streak](https://streak-stats.demolab.com?user=cedishii&theme=tokyonight&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=cedishii&show_icons=true&hide_border=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cedishii&layout=compact&hide_border=true&theme=tokyonight)
